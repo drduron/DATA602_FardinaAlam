@@ -1,0 +1,3 @@
+Why are you interested in taking DATA602?
+
+Data science is a field that I am fairly new to. I feel like this class will provide a nice entry point to be able to fully understand the data science pipeline and then apply this to real world situations.
